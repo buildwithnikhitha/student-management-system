@@ -31,6 +31,7 @@ A Python project with JSON file storage supporting CRUD operations.
   - [Requirements](#requirements)
   - [Future Improvements](#future-improvements)
   - [Contributing](#contributing)
+  - [🗺️ Roadmap](#️-roadmap)
 
 ## Features
 - Add new students
@@ -70,3 +71,14 @@ Contributions are welcome! 🎉
 2. Clone your fork  
    ```bash
    git clone https://github.com/your-username/student-management-system.git
+   
+## 🗺️ Roadmap
+
+- [x] Add CRUD operations (Create, Read, Update, Delete)
+- [x] Store student data in JSON file
+- [x] Add documentation (README with Usage, Requirements, Contributing, License)
+- [ ] Add GUI interface
+- [ ] Integrate with SQLite/MySQL database
+- [ ] Export student data to CSV/Excel
+- [ ] Add unit tests for validation
+- [ ] Deploy project as a web app (Flask/Django)
