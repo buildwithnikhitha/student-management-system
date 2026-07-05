@@ -1,9 +1,17 @@
 # Student Management System
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.10%2B-brightgreen.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/buildwithnikhitha/student-management-system)
+
+
+# Student Management System
+
 A Python project with JSON file storage supporting CRUD operations.
 
 ## Table of Contents
 - [Student Management System](#student-management-system)
+- [Student Management System](#student-management-system-1)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Installation](#installation)
