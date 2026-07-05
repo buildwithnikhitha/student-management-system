@@ -3,6 +3,17 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-brightgreen.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/buildwithnikhitha/student-management-system)
+![GitHub stars](https://img.shields.io/github/stars/buildwithnikhitha/student-management-system?style=social)
+![GitHub forks](https://img.shields.io/github/forks/buildwithnikhitha/student-management-system?style=social)
+![GitHub issues](https://img.shields.io/github/issues/buildwithnikhitha/student-management-system)
+![Last commit](https://img.shields.io/github/last-commit/buildwithnikhitha/student-management-system)
+
+
+# Student Management System
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.10%2B-brightgreen.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/buildwithnikhitha/student-management-system)
 
 
 # Student Management System
@@ -12,6 +23,7 @@ A Python project with JSON file storage supporting CRUD operations.
 ## Table of Contents
 - [Student Management System](#student-management-system)
 - [Student Management System](#student-management-system-1)
+- [Student Management System](#student-management-system-2)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Installation](#installation)
