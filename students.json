@@ -3,5 +3,10 @@
         "name": "Nainu",
         "roll": "401",
         "branch": "CSE"
+    },
+    {
+        "name": "Nishi",
+        "roll": "101",
+        "branch": "CSE"
     }
 ]
