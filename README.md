@@ -7,6 +7,7 @@ A Python project with JSON file storage supporting CRUD operations.
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Installation](#installation)
+  - [Usage](#usage)
 
 ## Features
 - Add new students
@@ -19,3 +20,8 @@ A Python project with JSON file storage supporting CRUD operations.
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/student-management-system.git
+
+## Usage
+1. Navigate to the project folder:
+   ```bash
+   cd student_management_system
