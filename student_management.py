@@ -1,3 +1,5 @@
+print("Hello, GitHub!")
+
 import json
 
 students = []
